@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [Contributors](#contributors)
-* [General info](general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
